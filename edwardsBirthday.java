@@ -13,3 +13,5 @@ public class edwardsBirthday {
         return (int)(max % MOD);
     }
 }
+
+//region on a plan same approach
