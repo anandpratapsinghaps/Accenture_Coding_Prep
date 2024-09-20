@@ -8,6 +8,7 @@ public class inversionCount {
             arr[i] = sc.nextInt();
         }
         System.out.println(inversion(arr, n));
+        sc.close();
     }
 
     //brute force
