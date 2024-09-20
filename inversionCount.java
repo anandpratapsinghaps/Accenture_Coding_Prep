@@ -23,6 +23,6 @@ public class inversionCount {
         return count;
     }
 
-    //optimal approach
+    //optimal approach(using merge sort)
 }
 
